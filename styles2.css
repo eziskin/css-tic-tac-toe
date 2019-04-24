@@ -1,0 +1,61 @@
+#board {
+    padding: 3em;
+    text-align: center;
+}
+
+.row {
+    float: left;
+    height: 100px;
+    width: 100px;
+    clear: both;
+    text-align: center;
+    width: 302px;
+}
+
+div.top {
+    background-color: black;
+    width: 400px;
+    position: relative;
+    height: 1px;
+    top: 130px;
+    left: 465px;
+}
+
+
+div.bottom {
+    background-color: black;
+    width: 400px;
+    position: relative;
+    height: 1px;
+    bottom: -45px;
+    left: 465px;
+}
+
+div.left {
+    background-color: black;
+    float: left;
+    height: 125px;
+    width: 1px;
+    position: relative;
+    left: 600px;
+    top: 30px;
+}
+
+div.right {
+    background-color: black;
+    float: left;
+    height: 125px;
+    width: 1px;
+    position: relative;
+    left: 730px;
+    top: 30px;
+}
+
+
+
+
+
+
+
+
+
